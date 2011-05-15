@@ -1,0 +1,5 @@
+com.hive13.mobile.R
+com.hive13.mobile.R$attr
+com.hive13.mobile.R$drawable
+com.hive13.mobile.R$layout
+com.hive13.mobile.R$string
